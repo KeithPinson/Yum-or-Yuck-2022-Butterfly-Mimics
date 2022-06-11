@@ -13,10 +13,10 @@ http://www.kaggle.com/c/yoy-mimics-2022
 
 ## Kaggle Overview Page
 
-[Description](kaggle-overview-description.md)
-[Getting Started](kaggle-overview-gettingstarted.md)
-[Evaluation](kaggle-overview-evaluation.md)
-[Timeline](kaggle-overview-timeline.md)
+- [Description](kaggle-overview-description.md)
+- [Getting Started](kaggle-overview-gettingstarted.md)
+- [Evaluation](kaggle-overview-evaluation.md)
+- [Timeline](kaggle-overview-timeline.md)
 
 ## The Dataset
 
