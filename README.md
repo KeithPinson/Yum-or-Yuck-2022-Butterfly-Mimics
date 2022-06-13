@@ -1,11 +1,11 @@
 ![Illustration of Monarch on daisy](DocResources/monarch_on_daisy-600.png)
 
-# Yum or Yuck Butterfly Mimics 2022
+# Yum or Yuck 2022 Butterfly Mimics
 
 ## A Kaggle Community Competition
 
 This project contains the documents for the *Yum or Yuck 
-Butterfly Mimics 2022* competition. The dataset is not
+2022 Butterfly Mimics* competition. The dataset is not
 included, see below. 
 
 The competition is hosted by Kaggle at, 
