@@ -6,7 +6,7 @@
 
 This project contains the documents for the *Yum or Yuck 
 2022 Butterfly Mimics* competition. The dataset is not
-included, see below. 
+included here but can be downloaded separately, see below. 
 
 The competition is hosted by Kaggle at, 
 http://www.kaggle.com/c/yoy-mimics-2022
