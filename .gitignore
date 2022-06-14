@@ -3,13 +3,11 @@
 .research/
 
 # Datasets
-Data/*
-Data/**/*.jpg
-Data/**/*.zip
-Tiny/*
-Tiny/**/*.jpg
-Tiny/**/*.zip
-
+YOYMimics-2022-dataset/*
+YOYMimics-2022-dataset/data/
+YOYMimics-2022-dataset/tiny/
+!YOYMimics-2022-dataset/
+!YOYMimics-2022-dataset/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
