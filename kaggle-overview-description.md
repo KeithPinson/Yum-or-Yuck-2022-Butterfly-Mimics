@@ -8,15 +8,15 @@ It would be a beautiful story, but it is not. The butterfly is fighting for its 
 
 Some host plants, milkweed and pipevine for example, contain toxins. The caterpillars sequester these toxins in their system and well in to adulthood they are yucky tasting for birds. Other caterpillars eat non-toxic plants and taste yummy to birds. But the yummy tasting butterflies use a disguise. They have changed their colors and patterning to look like the yucky butterflies. This mimicry is so effective that many butterfly species mimic the one toxic species. Birds can't tell the difference and avoid eating all of them.
 
-![Bird with butterfly--yum, bird spitting out something--yuck](DocResources/yumyuck.png)
+![Bird with butterfly--yum, bird spitting out something--yuck](https://github.com/KeithPinson/butterfly_mimics_2022_dataset/raw/main/DocResources/yumyuck.png)
 
 ## The Objective
 
-Craft a deep learning model that is better than a bird and place in the top three spots (ties accepted).
+Craft a deep learning model that is better than a bird at identifying butterflies and place in the top three spots (ties accepted).
 
 A better than a bird classifier could identify all the yummy butterflies as *yummy* and "eat" them without regard to perfectly classifying each butterfly, that is to say, yummy butterflies could be confused with yummy and still be better than a bird. 
 
-For this competition, we are going to disregard the binary classification and focus solely on the problem of classifying the 6 species of butterflies. With that in mind, the metric used to measure your place in the competition is the ***F1 Score*** of your butterfly classifier.
+For this competition, we are going to disregard the yum/yuck binary classification and focus solely on the problem of classifying the 6 species of butterflies. With that in mind, the metric used to measure your place in the competition is the ***F1 Score*** of your butterfly classifier.
 
 ### The  Butterflies
 
@@ -29,12 +29,15 @@ For this competition, we are going to disregard the binary classification and fo
 | tiger     | Eastern Tiger Swallowtail | Papilio glaucus | females may mimic Pipevine |
 | viceroy   | Viceroy                   | Limenitis archippus | mimics Monarch, sequester salicylic acid  |
 
-![Photos of the butterflies](DocResources/the-butterflies.png "The Butterflies starting from top-row: Black, Monarch, Pipevine, Spicebush, Tiger, and Viceroy")
-
+![Photos of the butterflies](https://github.com/KeithPinson/butterfly_mimics_2022_dataset/raw/main/DocResources/the-butterflies.png "The Butterflies starting from top-row: Black, Monarch, Pipevine, Spicebush, Tiger, and Viceroy")
 
 
 ## Why this is important?
 
 While identifying yummy and yucky butterflies is done all in good fun, the underlying need for butterfly classification is seriously important. On 22 July 2022, the Monarch butterfly was declared endangered by the International Union for Conservation of Nature (IUCN). The Spicebush Swallowtail is considered threatened.
 
-Butterflies, birds, and many other animals can benefit from trustworthy population surveys. Artificial neural networks are remarkably good at classifying many species of animals. Models like developed in this competition, coupled with the right equipment, and with a lot of other work, can help us keep tabs on butterfly populations and help to preserve their numbers in our changing world.
+Butterflies, birds, and many other animals can benefit from trustworthy population surveys. Artificial neural networks are remarkably good at classifying many species of animals. Models like developed in this competition, coupled with the right equipment and with a lot of other work, can help us keep tabs on butterfly populations and help to preserve their numbers in our changing world.
+
+---
+
+Copyright © 2022 Keith Pinson
