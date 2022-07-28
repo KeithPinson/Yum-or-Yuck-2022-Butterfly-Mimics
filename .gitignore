@@ -2,6 +2,9 @@
 .scratch/
 .research/
 
+# Submission Results
+submission.csv
+
 # Datasets
 YOYMimics-2022-dataset/*
 YOYMimics-2022-dataset/data/
